@@ -1,2 +1,2 @@
-# Machine_Learning_Project
+# Data Science learning with Vidya analytics
 This is my first project 
